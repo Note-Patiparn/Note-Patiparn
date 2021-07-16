@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## My name is Note , I'm first entry front - end dev, who also interested in UX design. 
+## My name is Note , I'm Frontend dev in training, who also interested in UX design. 
 
 ### langauge and tools 
 
